@@ -223,3 +223,6 @@ __marimo__/
 src/*[Ll]ogs
 logs/
 LOG_FILE_PATH
+
+# VSCode
+.vscode/
